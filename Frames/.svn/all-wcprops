@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/trinityadmin/!svn/ver/8/Frames
+END
+MangFrames_PopupFrames.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_PopupFrames.lua
+END
+MangFrames_SectionChar.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_SectionChar.lua
+END
+MangFrames_SectionNpc.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_SectionNpc.lua
+END
+MangFrames_SectionLog.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_SectionLog.lua
+END
+MangFrames_SectionTicket.lua
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_SectionTicket.lua
+END
+MangFrames_SectionMain.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_SectionMain.lua
+END
+MangFrames_SectionTele.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_SectionTele.lua
+END
+MangFrames_SectionMisc.lua
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_SectionMisc.lua
+END
+MangFrames_MiniMenu.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/trinityadmin/!svn/ver/8/Frames/MangFrames_MiniMenu.lua
+END
+MangFrames_SectionChar2.lua
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_SectionChar2.lua
+END
+MangFrames_LookupButtons.lua
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_LookupButtons.lua
+END
+MangFrames_Tabs.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_Tabs.lua
+END
+MangFrames_SmallPopupFrames.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_SmallPopupFrames.lua
+END
+MangFrames_SectionGO.lua
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_SectionGO.lua
+END
+MangFrames_SectionServer.lua
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/trinityadmin/!svn/ver/1/Frames/MangFrames_SectionServer.lua
+END
+MangFrames_Start.lua
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/trinityadmin/!svn/ver/3/Frames/MangFrames_Start.lua
+END
